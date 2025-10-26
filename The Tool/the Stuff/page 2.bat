@@ -17,4 +17,4 @@ echo
 set /p choice=start here:
 if "%choice%"=="1" start C:\Users\caner\AppData\Local\Discord\app-1.0.9212/discord.exe
 if "%choice%"=="4" exit 
-if "%choice%"=="3" 
+if "%choice%"=="2" start "" "dds"
